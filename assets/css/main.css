@@ -2893,6 +2893,10 @@
 					font-size: 1.25em;
 				}
 
+				#header h2 {
+					font-size: 1.25em;
+				}
+
 					#header h1 br {
 						display: none;
 					}
